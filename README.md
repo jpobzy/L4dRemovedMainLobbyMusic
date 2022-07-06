@@ -1,5 +1,5 @@
-# L4dRemovedMainLobbyMusic
-Removed main lobby music since turning off music in audio settings doesn't apply to it
+# L4dRemovedMainMenuMusic
+Removed main menu music since turning off music in audio settings doesn't apply to it
 
 ## Instructions 
 1. Download VPK file
